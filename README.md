@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## This is Zergling73's Github Profile!
 
-I’m from the Republic of China (Taiwan)  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg" width="20"/>
+I’m from the Republic of China (Taiwan) <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg" width="20" align="absmiddle"/>
 <!--
 **Makino-Shiro/Makino-Shiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
